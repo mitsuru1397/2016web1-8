@@ -22,6 +22,12 @@ background-color: mediumaquamarine;
   color: black;
 }
 
+#gnav a.selected {
+  background: white;
+  color: blue;
+  font-weight: hold;
+}
+
 
 #gnav li {
   float: left; /*固定幅にするためにfloatで指定 */
