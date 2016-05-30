@@ -17,6 +17,12 @@ background-color: mediumaquamarine;
   color: white;
 }
 
+#gnav a:hover{
+  background: lightskyblue;
+  color: black;
+}
+
+
 #gnav li {
   float: left; /*固定幅にするためにfloatで指定 */
   width: 156px;
