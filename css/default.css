@@ -9,11 +9,12 @@ background-color: mediumaquamarine;
 }
 
 #gnav a {
-  display: block;
-  padding:10px 0;
-  text-align: center;
-  text-decoration: none;
+  display: block; /* a要素のブロック化 */
+  padding:10px 0; /*上下に空間を確保する */
+  text-align: center; /*中央ぞろえ*/
+  text-decoration: none; /*下線を消す*/
   background: skyblue;
+  color: white;
 }
 
 #gnav li {
