@@ -8,6 +8,14 @@ background-color: mediumaquamarine;
   overflow: hidden;
 }
 
+#gnav a {
+  display: block;
+  padding:10px 0;
+  text-align: center;
+  text-decoration: none;
+  background: skyblue;
+}
+
 #gnav li {
   float: left; /*固定幅にするためにfloatで指定 */
   width: 156px;
